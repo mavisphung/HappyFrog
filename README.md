@@ -3,7 +3,7 @@ A mini game based on Flappy Bird.
 
 ### How to play
 Press up arrow key to jump
-Presse space key to pause game
+Press space key to pause game
 
 # Technologies
 - Java 8
