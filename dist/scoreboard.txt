@@ -1,0 +1,3 @@
+Player: unknown
+	Score: 13
+	Reward: Bronze medal
